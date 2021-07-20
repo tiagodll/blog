@@ -1,0 +1,29 @@
+baseURL = "http://hugo.dalligna.com/"
+languageCode = "en-us"
+title = "My thoughts on tech"
+theme = "purehugo"
+Paginate = 10
+
+# Main
+github = "tiagodll"
+
+[params]
+  githubName = "tiagodll"
+  description = "My thoughts on tech 2"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
