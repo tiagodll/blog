@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiago on tech</title>
+    <link>http://tiago.dalligna.com/</link>
+    <description>Recent content on Tiago on tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2015 16:19:28 +0000</lastBuildDate><atom:link href="http://tiago.dalligna.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>did I run my migrations?</title>
+      <link>http://tiago.dalligna.com/2015/04/did-i-run-my-migrations/</link>
+      <pubDate>Wed, 22 Apr 2015 16:19:28 +0000</pubDate>
+      
+      <guid>http://tiago.dalligna.com/2015/04/did-i-run-my-migrations/</guid>
+      <description>did I run my migrations? Today I had an error message driving me crazy:
+method_missing&#39;: undefined method export_format&#39; for XXX model
+You see, our model is a gem itself, because it is shared by several projects. When we have something in the schema that is not in the database, that is the error we get.
+Now, I knew this error from previous executions, but my model was in synch with the DB.</description>
+    </item>
+    
+  </channel>
+</rss>

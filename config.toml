@@ -1,6 +1,6 @@
-baseURL = "http://hugo.dalligna.com/"
+baseURL = "http://tiago.dalligna.com/"
 languageCode = "en-us"
-title = "My thoughts on tech"
+title = "Tiago on tech"
 theme = "purehugo"
 Paginate = 10
 
@@ -9,7 +9,8 @@ github = "tiagodll"
 
 [params]
   githubName = "tiagodll"
-  description = "My thoughts on tech 2"
+  description = "My random thoughts and experiences"
+  dateFormat = "2021-07-22"
 
 [permalinks]
   posts = "/:year/:month/:title/"
