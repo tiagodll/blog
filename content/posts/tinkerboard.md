@@ -1,7 +1,7 @@
 ---
-title: "Thinkerboard"
+title: "Tinkerboard"
 date: 2017-05-20T07:30:29Z
-draft: true
+draft: false
 ---
 
 Finally my Asus tinkerboard arrived.
@@ -14,7 +14,8 @@ not sure yet...
 
 Yes, it packs more power than raspberry pi, but it falls behind in so many things
 
-The software is basically inexistentYou get a standar linux and nothing more
+The software is basically inexistent
+You get a standar linux and nothing more
 With no further ado, lets get it going.
 
 step 1: ssh to it
@@ -34,4 +35,10 @@ step 2: install go
 
 ... aaaaaaannnd I am out of space :'(
 
-something is not right here, I have a 32gb sd card,I run fdisk and check that indeed my partition is 29gbbut somehow my /root is locked to 2gbwell, anyway, lost a day playing around with that,in the end formatted my sd card before loading the imageand it works.
+something is not right here, I have a 32gb sd card,
+I run fdisk and check that indeed my partition is 29gb
+but somehow my /root is locked to 2gb
+
+well, anyway, lost a day playing around with that,
+in the end formatted my sd card before loading the image
+and it works.
