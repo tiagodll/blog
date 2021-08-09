@@ -1,6 +1,7 @@
 ---
 title: "Css expandabox"
 date: 2013-08-15T22:21:43+02:00
+tags: ['css']
 draft: false
 ---
 

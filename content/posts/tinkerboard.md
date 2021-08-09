@@ -2,6 +2,7 @@
 title: "Tinkerboard"
 date: 2017-05-20T07:30:29Z
 draft: false
+tags: ['Raspberry Pi']
 ---
 
 Finally my Asus tinkerboard arrived.

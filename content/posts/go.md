@@ -2,6 +2,7 @@
 title: "Go"
 date: 2014-10-02T11:16:11+02:00
 draft: false
+tags: ['Go']
 ---
 
 ![Go logo](http://golang.org/doc/gopher/frontpage.png "go logo")

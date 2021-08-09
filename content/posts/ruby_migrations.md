@@ -2,6 +2,7 @@
 title: "did I run my migrations?"
 date: 2015-04-22T16:19:28Z
 draft: false
+tags: ['Ruby', 'Db']
 ---
 
  Today I had an error message driving me crazy:

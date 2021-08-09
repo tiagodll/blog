@@ -2,6 +2,7 @@
 title: "Sharepoint full page little trick"
 date: 2013-10-15T13:20:58+02:00
 draft: false
+tags: ['javascript', 'sharepoint']
 ---
 
 For those of you with a very specific task to create a hotsite in sharepoint(MOSS) and can't (or dont want to) create a new template just for that, here it goes:

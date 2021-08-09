@@ -2,6 +2,7 @@
 title: "So, what is elixir?"
 date: 2013-06-23T17:15:00+02:00
 draft: false
+tags: ['elixir']
 ---
 
 ![Elixir logo](https://lh5.googleusercontent.com/proxy/pDPq3cxOcMm97pAzmpbtcCsaSuq9iTcrJZuUH2YOQ7ggJAsCt8Q7nmpZJq5DFEaCOlnozSSQZBBwGbmkEIKN=s0-d)

@@ -1,6 +1,7 @@
 ---
 title: "Aspnet_mvc"
 date: 2012-03-23T17:37:27+02:00
+tags: ['aspnet', 'dotnet']
 draft: false
 ---
 

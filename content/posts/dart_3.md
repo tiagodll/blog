@@ -2,6 +2,7 @@
 title: "Dart"
 date: 2014-07-24T11:19:27+02:00
 draft: false
+tags: ['dart']
 ---
 
 ![Dart logo](http://siliconangle.com/files/2011/10/dart-logo.png)

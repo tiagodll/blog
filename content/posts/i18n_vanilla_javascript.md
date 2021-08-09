@@ -2,6 +2,7 @@
 title: "i18n - vanilla javascript"
 date: 2018-03-08T16:38:47Z
 draft: false
+tags: ['javascript']
 ---
 
 I am getting tired of all this javascript frameworks.

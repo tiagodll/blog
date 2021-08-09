@@ -2,6 +2,7 @@
 title: "Dart, what do we think about it?"
 date: 2014-07-24T17:04:43+02:00
 draft: false
+tags: ['dart']
 ---
 
 yeah, about that...

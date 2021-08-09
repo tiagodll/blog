@@ -16,16 +16,19 @@ disqusShortname = "tiagodll"
 [permalinks]
   posts = "/:year/:month/:title/"
 
+[taxonomies]
+  tag = "tags"
+
 [markup]
   [markup.highlight]
     anchorLineNos = false
     codeFences = true
-    guessSyntax = false
+    guessSyntax = true
     hl_Lines = ""
     lineAnchors = ""
     lineNoStart = 1
     lineNos = false
-    lineNumbersInTable = true
+    lineNumbersInTable = false
     noClasses = true
     style = "monokai"
     tabWidth = 4
