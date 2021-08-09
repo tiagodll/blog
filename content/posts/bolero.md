@@ -1,8 +1,15 @@
- What do you think about blazor?
+---
+title: "Bolero"
+date: 2021-08-09T15:42:00+02:00
+draft: false
+tags: ['Fsharp', 'F#', 'dotnet', 'bolero']
+---
 
-what about Elm?
+What do you think about blazor?
 
-what if Elm architecture was running in blazor, but in F#?
+What about Elm?
+
+What if Elm architecture was running in blazor, but in F#?
 
 Well, that is what bolero is about. 
 
@@ -38,7 +45,7 @@ it is global (inside the component) and it contains every detail in the applicat
 your working data, cached values, state of the dropdowns and popups... everything
 
 Example:
-```
+```FSharp
 type Model =
     {
 				page: Page
@@ -57,7 +64,7 @@ It is much easier to find out where something is being updated, but you end up w
 Then you can start passing the update to another function.
 This helps with the size, and it is ok if you are well organized. but it could also mess up your codebase.
 
-```
+```FSharp
 let update message model =
     match message with
     | SetPage page -> { model with page = page }, Cmd.none
@@ -70,7 +77,7 @@ The view is called on every update to the model.
 You can use functions to represent the html, and also include some logic to hide or display items based on the model.
 
 Example:
-```
+```FSharp
 let view model dispatch =
     div [attr.``class`` "columns"] [
         div[][text " x "]
@@ -108,7 +115,7 @@ Just because the update function doesn't have a parameter I want, it doesn't mea
 In this example I was stuck for 2 days trying to access the JavaScript runtime from the client side.
 
 Then I found out I can pass my own update method with that parameter:
-```
+```FSharp
 let update = update this.JSRuntime Program.mkProgram init update view
 ```
 
