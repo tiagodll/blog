@@ -27,7 +27,7 @@ Bolero is based on the elm architecture.
 
 this is divided in 3 items:
 - **Model**: it represents the current state of the app.
-- **update**: this function the only way to change your model. 
+- **update**: this function is the only way to change your model. 
 - **render**: it is how your html will be rendered. 
 
 Well, there is also the init function, where you give the initial state of the application.

@@ -1,4 +1,4 @@
-baseurl = "http://tiago.dalligna.com/"
+baseurl = "https://tiago.dalligna.com/"
 languageCode = "en-us"
 title = "Tiago on tech"
 theme = "purehugo"
