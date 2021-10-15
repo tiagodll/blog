@@ -3,6 +3,8 @@ title: "Bolero"
 date: 2021-08-09T15:42:00+02:00
 draft: false
 tags: ['Fsharp', 'F#', 'dotnet', 'bolero']
+featured_image: https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png
+description: elm + blazor = bolero
 ---
 
 What do you think about blazor?

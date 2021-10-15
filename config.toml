@@ -4,6 +4,9 @@ title = "Tiago on tech"
 theme = "purehugo"
 Paginate = 10
 disqusShortname = "tiagodll"
+canonifyURLs = true
+copyright = "Tiago Almeida Dall'Igna"
+enableRobotsTXT = true
 
 [params]
   # twitterName = "tiagodll"
@@ -15,6 +18,11 @@ disqusShortname = "tiagodll"
 
 [permalinks]
   posts = "/:year/:month/:title/"
+  page = "/:slug/"
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
 
 [taxonomies]
   tag = "tags"

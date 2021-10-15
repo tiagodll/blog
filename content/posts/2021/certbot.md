@@ -3,6 +3,8 @@ title: "Certbot"
 date: 2021-09-08T10:23:00+02:00
 draft: false
 tags: ['DevOps', 'Server', 'Certbot']
+featured_image: https://certbot.eff.org/images/certbot-logo-1A.svg
+description: I <3 certbot. Managing a server? not so much
 ---
 
 ## my certificate is expired and certbot 
