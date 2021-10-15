@@ -3,6 +3,8 @@ title: "Dart"
 date: 2014-07-24T11:19:27+02:00
 draft: false
 tags: ['dart']
+featured_image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg
+description: 
 ---
 
 ![Dart logo](http://siliconangle.com/files/2011/10/dart-logo.png)

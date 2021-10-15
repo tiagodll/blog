@@ -3,6 +3,11 @@ title: "Tinkerboard"
 date: 2017-05-20T07:30:29Z
 draft: false
 tags: ['Raspberry Pi']
+
+featured_image: https://www.electronics-lab.com/wp-content/uploads/2018/01/tinkerboard-S.jpg
+description: "is raspberry pi about to get a real competitor?
+Asus thinks so.
+lets find out"
 ---
 
 Finally my Asus tinkerboard arrived.

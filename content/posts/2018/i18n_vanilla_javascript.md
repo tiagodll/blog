@@ -3,6 +3,9 @@ title: "i18n - vanilla javascript"
 date: 2018-03-08T16:38:47Z
 draft: false
 tags: ['javascript']
+
+featured_image: https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png
+description: elm + blazor = bolero
 ---
 
 I am getting tired of all this javascript frameworks.

@@ -3,6 +3,8 @@ title: "Dart + start + polymer = ?"
 date: 2014-08-10T17:06:06+02:00
 draft: false
 tags: ['dart']
+featured_image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg
+description: 
 ---
 
 

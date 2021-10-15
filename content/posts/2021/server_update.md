@@ -62,7 +62,7 @@ But wait, how is this working? 🤔
 
 it took me months to set up the old server
 
-Simple: 
+Simple:
 ![Docker](https://duckduckgo.com/i/def4b5e6.png)
 
 You see, the old server I had to set up app by app
