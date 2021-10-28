@@ -1,7 +1,7 @@
 baseurl = "https://tiago.dalligna.com/"
 languageCode = "en-us"
 title = "Tiago on tech"
-theme = "purehugo"
+theme = ["purehugo", "matomo"]
 Paginate = 10
 disqusShortname = "tiagodll"
 canonifyURLs = true
@@ -21,8 +21,9 @@ enableRobotsTXT = true
   page = "/:slug/"
 
 [sitemap]
-    changefreq = "weekly"
-    priority = 0.5
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [taxonomies]
   tag = "tags"
@@ -40,3 +41,7 @@ enableRobotsTXT = true
     noClasses = true
     style = "monokai"
     tabWidth = 4
+
+[params.matomo]
+  url = "https://matomo.dalligna.com"
+  id = 1
