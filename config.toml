@@ -6,6 +6,7 @@ Paginate = 10
 canonifyURLs = true
 copyright = "Tiago Almeida Dall'Igna"
 enableRobotsTXT = true
+enableEmoji = true
 
 [params]
   # twitterName = "tiagodll"
