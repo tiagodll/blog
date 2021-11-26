@@ -1,9 +1,8 @@
 baseurl = "https://tiago.dalligna.com/"
 languageCode = "en-us"
 title = "Tiago on tech"
-theme = ["purehugo", "matomo"]
+theme = ["purehugotiago", "matomo"]
 Paginate = 10
-disqusShortname = "tiagodll"
 canonifyURLs = true
 copyright = "Tiago Almeida Dall'Igna"
 enableRobotsTXT = true
