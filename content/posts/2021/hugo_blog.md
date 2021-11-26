@@ -2,7 +2,7 @@
 title: "Hugo blog engine"
 date: 2021-06-12T17:50:00+02:00
 draft: false
-tags: ['Go', 'Hugo', 'Blog']
+tags: ['go', 'hugo', 'blog']
 featured_image: https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg
 description: What a cool blogging system
 ---

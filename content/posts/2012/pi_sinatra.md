@@ -2,7 +2,7 @@
 title: "Raspberry pi + ruby + sinatra = #winning"
 date: 2012-11-07T17:29:10+02:00
 draft: false
-tags: ['Raspberry Pi', 'Sinatra', 'Ruby']
+tags: ['raspberry_pi', 'sinatra', 'ruby']
 ---
 
 There is something about hardware/low level development that amazes me.

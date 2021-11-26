@@ -2,7 +2,7 @@
 title: "Go"
 date: 2014-10-02T11:16:11+02:00
 draft: false
-tags: ['Go']
+tags: ['go']
 featured_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png
 description: My thoughts and experiences with go
 

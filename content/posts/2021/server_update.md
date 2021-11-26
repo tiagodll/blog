@@ -2,7 +2,7 @@
 title: "server update"
 date: 2021-09-18T10:23:00+02:00
 draft: false
-tags: ['Server', 'Ubuntu', 'Blog']
+tags: ['server', 'ubuntu', 'blog']
 featured_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/500px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png
 description: Keep your ubuntu up to date. Upgrading too late can be a pain...
 ---

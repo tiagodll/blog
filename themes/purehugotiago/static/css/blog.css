@@ -1,0 +1,191 @@
+#layout,
+.nav-list {
+ padding:0
+}
+.brand-title,
+.content-subhead {
+ text-transform:uppercase
+}
+.footer,
+.header,
+.post-share-links {
+ text-align:center
+}
+* {
+ -webkit-box-sizing:border-box;
+ -moz-box-sizing:border-box;
+ box-sizing:border-box
+}
+.pure-g [class*=pure-u],
+button,
+html,
+input,
+select,
+textarea {
+ font-family:"Source Sans Pro",serif
+}
+.brand-title,
+.nav-item a,
+.post-title {
+ font-family:Oxygen,sans-serif
+}
+a {
+ text-decoration:none;
+ color:#3d92c9
+}
+.brand-title a,
+.sidebar {
+ color:#fff
+}
+a:focus,
+a:hover {
+ text-decoration:underline
+}
+.brand-title a:hover,
+.post-share-links a:hover,
+.post-title:hover {
+ text-decoration:none
+}
+h3 {
+ font-weight:100
+}
+.pure-img-responsive {
+ max-width:100%;
+ height:auto
+}
+.header {
+ top:auto;
+ margin:3em auto
+}
+.sidebar {
+ background:#3d4f5d
+}
+.brand-tagline,
+.brand-title {
+ margin:0
+}
+.brand-tagline {
+ font-weight:300;
+ color:#b0cadb
+}
+.nav-list {
+ margin:0;
+ list-style:none
+}
+.nav-item {
+ display:inline-block;
+ zoom:1
+}
+.nav-item a {
+ background:0 0;
+ margin-top:1em;
+ font-weight:700
+}
+.nav-item a:focus,
+.nav-item a:hover {
+ text-decoration:none
+}
+.content-subhead {
+ padding:.4em 0;
+ font-size:80%;
+ font-weight:500;
+ letter-spacing:.1em
+}
+.hugo,
+.post-title,
+pre .class,
+pre .css-property,
+pre .css-value,
+pre .entity.function,
+pre .id,
+pre .keyword,
+pre .sass,
+pre .storage.function,
+pre .vendor-prefix {
+ font-weight:700
+}
+.content {
+ padding:2em 1em 0
+}
+.post {
+ padding-bottom:2em
+}
+.post-title {
+ font-size:2em;
+ margin:.4em 0
+}
+.post-avatar {
+ border-radius:50px;
+ float:right;
+ margin-left:1em
+}
+
+.post-description {
+ font-family:"Source Sans Pro",serif;
+ line-height:1.35em
+}
+.post-meta {
+ font-size:90%;
+ margin:5px 0
+}
+.post-category {
+ margin:0 .1em;
+ padding:.3em 1em;
+ font-size:80%
+}
+
+.post-images {
+ margin:1em 0
+}
+.post-image-meta {
+ margin-top:-3.5em;
+ margin-left:1em;
+ text-shadow:0 1px 1px #333
+}
+.footer {
+ padding:1em 0;
+ font-size:80%
+}
+.footer ul li a {
+ display:inline;
+ padding:0
+}
+
+.footer .pure-menu a:focus,
+.footer .pure-menu a:hover {
+ background:0 0
+}
+.footer li {
+ list-style-type:none
+}
+
+
+
+@media (min-width:48em) {
+ .content {
+  padding:2em 3em 0;
+  margin-left:25%
+ }
+ .header {
+  margin:80% 2em 0;
+  text-align:right
+ }
+ .sidebar {
+  position:fixed;
+  top:0;
+  bottom:0
+ }
+}
+
+
+
+img {
+    max-width: 100%;
+    max-height: 400px;
+}
+
+.post-avatar {
+    max-width: 100px; 
+    max-height: 50px;
+    border-radius: 0px !important;
+}

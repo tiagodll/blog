@@ -2,7 +2,7 @@
 title: "did I run my migrations?"
 date: 2015-04-22T16:19:28Z
 draft: false
-tags: ['Ruby', 'Db']
+tags: ['ruby', 'db']
 
 featured_image: https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg
 description: migrations are awesome, but only when you run them

@@ -10,6 +10,9 @@
                 {{ range .Paginator.Pages }}
                 <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
                 <section class="post">
+                    {{ with .Params.featured_image }}
+                        <img src="{{ . }}" class="post-avatar">
+                    {{ end }}
                     <header class="post-header">
 
                         <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
@@ -18,17 +21,17 @@
                             {{ with .Params.author }}
                                 By <strong class="post-author">{{ . }}</strong>
                             {{ end }}
-                            {{ if isset .Params "categories" }}
+                            {{ if isset .Params "tags" }}
                                 under 
-                                {{ range .Params.categories }}
-                                    <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absURL }}'>{{ . }}</a>
+                                {{ range .Params.tags }}
+                                    <a class="post-category post-term-{{ . }}" href='{{ ( printf "tags/%s" . ) | absURL }}'>{{ . }}</a>
                                 {{ end }}
                             {{ end }}
                         </p>
                     </header>
 
                     <div class="post-description">
-                        {{ .Content }}
+                        {{ .Description }}
                     </div>
                 </section>
                 {{ end }}
@@ -38,6 +41,7 @@
         </div>
     </div>
 </div>
+
 {{ partial "analytics.html" . }}
 </body>
 </html>

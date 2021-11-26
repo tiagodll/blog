@@ -2,7 +2,7 @@
 title: "feet keyboard emulator"
 date: 2021-10-27T14:00:00+02:00
 draft: false
-tags: ['Rasperry pi', 'Raspberry pi pico', 'hardware']
+tags: ['rasperry_pi', 'raspberry_pi_pico', 'hardware']
 featured_image: /2021/10/feet-keyboard-emulator/bass_pedal.png
 description: Have you ever thought about using your feet to a better computer experience?
 ---

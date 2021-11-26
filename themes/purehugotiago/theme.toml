@@ -10,3 +10,5 @@ min_version = 0.14
     twitter = "http://twitter.com/dragos_plesca"
     url = "http://github.com/dplesca"
 
+[taxonomies]
+  tag = 'tags'

@@ -2,7 +2,7 @@
 title: "PetaPoco. Said whaaaat?"
 date: 2012-03-24T17:31:40+02:00
 draft: false
-tags: ['C#', 'dotnet']
+tags: ['csharp', 'dotnet']
 ---
 
 So, maybe some of you guys checked out my dead database project, the dNet.Db. It is free and open source @ [http://dnetdb.codeplex.com/](http://dnetdb.codeplex.com/)

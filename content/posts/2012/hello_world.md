@@ -2,6 +2,7 @@
 title: "Hello world!"
 date: 2012-03-23T17:30:26+02:00
 draft: false
+tags: []
 ---
 
 To start with, I'll explain why I am creating this blog. Maybe you know my old blog. It is dead now.
