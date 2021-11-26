@@ -3,7 +3,7 @@ title: "Certbot"
 date: 2021-09-08T10:23:00+02:00
 draft: false
 tags: ['devops', 'server', 'certbot']
-featured_image: https://certbot.eff.org/images/certbot-logo-1A.svg
+featured_image: https://certbot.eff.org/assets/certbot/Certbot-solid-c4e500f9953fc8ee1d38cb0b22778163602a82cb2b39a5bc89211315c5c877c9.svg
 description: I <3 certbot. Managing a server? not so much
 ---
 
