@@ -1,4 +1,4 @@
-name: Manual workflow
+name: Deploy to server
 
 on: [push]
 
@@ -20,12 +20,13 @@ jobs:
         
     - name: Build
       run: hugo --minify
-        
-    - name: Deploy to Server
-      uses: easingthemes/ssh-deploy@main
-      env:
-          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-          SOURCE: "./public"
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: ${{ secrets.REMOTE_TARGET }}
+      
+    - name: SSH Server Deploy
+      uses: kostya-ten/ssh-server-deploy@v4
+      with:
+        host: ${{ secrets.SERVER_HOST }}
+        port: ${{ secrets.SERVER_PORT }}
+        username: ${{ secrets.REMOTE_USER }}
+        private_key: ${{ secrets.SERVER_SSH_KEY }}
+        scp_source: ./public
+        scp_target: /var/www/blog
