@@ -1,10 +1,10 @@
 ---
-title: "How to set up automated deployment using github actions"
+title: "Replace your docker with 3 easy steps"
 date: 2021-11-28T18:24:00+02:00
 draft: false
 tags: ['server', 'devops', 'github_actions']
 featured_image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fme-dutour-mathieu.gallerycdn.vsassets.io%2Fextensions%2Fme-dutour-mathieu%2Fvscode-github-actions%2F3.0.0%2F1588593426297%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1
-description: You can replace your docker with a 
+description: For a small project there is no need to run a docker image. Setup linux services with their own environmnet variables and run them isolated.
 ---
 
 I don't like managing servers.
@@ -14,7 +14,7 @@ My way around it was to set up all my apps using docker, and that made me happy.
 After my small server ran out of space with only 5 web apps running, I started changing my mind.
 On top of this, I used GitHub actions with azure, and loved it.
 
-So this is how I moved my dotnet webapp from docker to a Linux service automatically deployed by github actions
+For that reason I moved my dotnet webapp from docker to a Linux service automatically deployed by github actions.
 
 To better explain this, I am going to use pitaco, a comment box I have created for studying purposes: https://github.com/tiagodll/pitaco
 
