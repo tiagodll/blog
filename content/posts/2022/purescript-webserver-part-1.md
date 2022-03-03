@@ -1,12 +1,12 @@
 ---
 title: "PureScript web app for dummies"
-date: 2022-03-02 18:00
+date: 2022-03-02T18:00:00+02:00
 draft: false
-type: post
 tags: ['PureScript', 'purs', 'spork']
-featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_Logo.png
 description: A dead simple guide of how to make a web app using purescript
+featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_Logo.png
 ---
+
 ![https://www.purescript.org/img/logo.svg](https://www.purescript.org/img/logo.svg)
 
 # setup
