@@ -1,5 +1,5 @@
 ---
-title: "PureScript web app for dummies"
+title: "PureScript web app for dummies - part 2"
 date: 2022-03-07T23:00:00+02:00
 draft: false
 tags: ['PureScript', 'purs', 'spork']
@@ -11,7 +11,7 @@ featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_L
 
 # recap
 
-[In the previous post](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies/), we set up a basic HTTPure server
+[In the previous post](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/), we set up a basic HTTPure server
 
 Now we are going to add a client side for this app using spork
 

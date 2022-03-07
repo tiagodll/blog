@@ -1,5 +1,5 @@
 ---
-title: "PureScript web app for dummies"
+title: "PureScript web app for dummies - part 1"
 date: 2022-03-02T18:00:00+02:00
 draft: false
 tags: ['PureScript', 'purs', 'spork']
