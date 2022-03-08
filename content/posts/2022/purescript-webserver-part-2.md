@@ -15,10 +15,6 @@ featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_L
 
 Now we are going to add a client side for this app using spork
 
-```bash
-npm install purescript spago --global
-```
-
 # preparing
 
 Move the previous purs files to new folder called Server (inside src)
