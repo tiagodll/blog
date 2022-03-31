@@ -15,6 +15,14 @@ featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_L
 
 Now we are going to add a client side for this app using spork
 
+# PureScript web app for dummies series
+| Date | Description | Link |
+|------|-------------|------|
+| 02 Mar 2022 | set up a basic HTTPure server | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/) |
+| 07 Mar 2022 | add a client side app | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-2/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-2/) |
+| 31 Mar 2022 | add a database, API, and unit tests | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-3/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-3/) |
+| ??? | connect frontend client to the api | not ready yet |
+
 # preparing
 
 Move the previous purs files to new folder called Server (inside src)
