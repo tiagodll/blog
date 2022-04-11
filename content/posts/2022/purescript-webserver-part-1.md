@@ -15,7 +15,7 @@ featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_L
 | 02 Mar 2022 | set up a basic HTTPure server | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/) |
 | 07 Mar 2022 | add a client side app | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-2/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-2/) |
 | 31 Mar 2022 | add a database, API, and unit tests | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-3/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-3/) |
-| 11 Apr 2022 | connect frontend client to the api  | <https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-4/> |
+| 11 Apr 2022 | connect frontend client to the api  | <https://tiago.dalligna.com/2022/04/purescript-web-app-for-dummies-part-4/> |
 
 # setup
 

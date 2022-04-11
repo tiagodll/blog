@@ -1,14 +1,10 @@
 ---
-title: PureScript web app for dummies - part 4
+title: "PureScript web app for dummies - part 4"
 date: 2022-04-11T17:30:00.000Z
 draft: false
-tags:
-  - PureScript
-  - purs
-  - spork
+tags: ['PureScript', 'purs', 'spork']
 featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_Logo.png
-description: A dead simple guide of how to make a web app using purescript
-date updated: 2022-04-11 17:30
+description: A dead simple guide of how to make a web app using purescript # 4
 ---
 
 ![https://www.purescript.org/img/logo.svg](https://www.purescript.org/img/logo.svg)
@@ -27,7 +23,7 @@ Now we are going to add a database to the server
 | 02 Mar 2022 | set up a basic HTTPure server       | <https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/> |
 | 07 Mar 2022 | add a client side app               | <https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-2/> |
 | 31 Mar 2022 | add a database, API, and unit tests | <https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-3/> |
-| 11 Apr 2022 | connect frontend client to the api  | <https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-4/> |
+| 11 Apr 2022 | connect frontend client to the api  | <https://tiago.dalligna.com/2022/04/purescript-web-app-for-dummies-part-4/> |
 
 # Helpers
 
