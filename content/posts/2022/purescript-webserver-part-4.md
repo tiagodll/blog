@@ -1,6 +1,6 @@
 ---
 title: "PureScript web app for dummies - part 4"
-date: 2022-04-11T17:30:00.000Z
+date: 2022-04-11T17:30:00+02:00
 draft: false
 tags: ['PureScript', 'purs', 'spork']
 featured_image: https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_Logo.png
