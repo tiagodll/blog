@@ -23,7 +23,7 @@ Now we are going to add a database to the server
 | 02 Mar 2022 | set up a basic HTTPure server | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-1/) |
 | 07 Mar 2022 | add a client side app | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-2/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-2/) |
 | 31 Mar 2022 | add a database, API, and unit tests | [https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-3/](https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-3/) |
-| ??? | connect frontend client to the api | not ready yet |
+| 11 Apr 2022 | connect frontend client to the api  | <https://tiago.dalligna.com/2022/03/purescript-web-app-for-dummies-part-4/> |
 
 # Prepare your project to sqlite
 
@@ -186,3 +186,15 @@ dbNotes `shouldContain` note
 -- is the same as
 shouldContain dbNotes note
 ```
+
+# conclusion
+
+This post thought you how to add an sqlite database to your app, adapt the api to serve it, and create unit tests.
+
+The code is available in [the tag v5 of our pnotes repo](https://github.com/pnorco/pnotes/releases/tag/v5).
+
+So far, so good.
+
+But... why is my app is still not saving/loading/deleting in/from the database?
+Well, our client side is not calling our API yet.
+But this will be fixed in the next post.
