@@ -95,7 +95,7 @@ First Header | Second Header
 First Column | Second Column
 Another row  | Second Column
 ```
-
+ 
 ex:
 First Header | Second Header
 ------------ | ------------
