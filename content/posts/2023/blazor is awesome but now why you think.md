@@ -1,6 +1,6 @@
 ---
 title: "Blazor is awesome, but not for the reason you think"
-date: 2023-11-27T18:00:00+02:00
+date: 2023-11-28T18:00:00+02:00
 draft: false
 tags: ['C#', 'csharp', 'blazor', 'webassembly']
 description: Blazor is great, but why?
