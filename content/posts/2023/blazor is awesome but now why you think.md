@@ -24,13 +24,17 @@ As of now, there are still reasons to use JavaScript interop, although this may 
 ## 2. But, but, components…
 
 
-While components are useful, they may not cover all the cases you need. However, you can do most of your needs with simple HTML + CSS.
+While components are useful, they may not cover all the cases you need. 
+
+However, you can do most of your needs with simple HTML + CSS.
 
 
 ## 3. JavaScript code is not that bad
 
 
-If you want to have a full-blown enterprise application and your frontend code is huge, then using C# makes sense. Otherwise, a little JavaScript will not hurt.
+If you want to have a full-blown enterprise application and your frontend code is huge, then using C# makes sense. 
+
+Otherwise, a little JavaScript will not hurt.
 
 ## 4. The shared model
 
